@@ -1,7 +1,9 @@
 name: Profile readme
 on:
+  repository_dispatch:
+    types: update-readme
   schedule:
-    - cron: '03 2 * * *'
+    - cron: '15 2 * * *'
 jobs:
   update-readme:
     name: Update Readme with Metrics
