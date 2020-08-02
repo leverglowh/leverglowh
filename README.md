@@ -60,3 +60,6 @@ TypeScript   1 repos        █████░░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+
+Awesome readme stats by :star2: [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) :star2:
