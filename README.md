@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leverglowh) ![Profile readme](https://github.com/leverglowh/leverglowh/workflows/Profile%20readme/badge.svg?branch=master)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-749236%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-748172%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -31,16 +31,14 @@ Sunday       12 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 33 mins       ██████████████████████░░░   91.42% 
-SCSS                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.27% 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.39% 
-Java                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92%
+TypeScript               1 hr 39 mins        ████████████████████████░   98.17% 
+SCSS                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.83%
 
 🔥 Editors: 
-VS Code                  7 hrs 10 mins       █████████████████████████   100.0%
+VS Code                  1 hr 41 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  7 hrs 10 mins       █████████████████████████   100.0%
+Windows                  1 hr 41 mins        █████████████████████████   100.0%
 
 ```
 
