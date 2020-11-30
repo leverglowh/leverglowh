@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leverglowh) ![Profile readme](https://github.com/leverglowh/leverglowh/workflows/Profile%20readme/badge.svg?branch=master)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-748553%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-750938%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
