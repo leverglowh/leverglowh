@@ -2,6 +2,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leverglowh) ![Profile readme](https://github.com/leverglowh/leverglowh/workflows/Profile%20readme/badge.svg?branch=master)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -58,7 +60,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 07/05/2022 03:12:17 UTC
+ Last Updated on 08/05/2022 03:22:34 UTC
 <!--END_SECTION:waka-->
 
 
