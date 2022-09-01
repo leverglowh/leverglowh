@@ -33,13 +33,14 @@ Sunday       13 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 min               ███████████████░░░░░░░░░░   60.74% 
+Markdown                 1 min               █████████░░░░░░░░░░░░░░░░   39.26%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Sublime Text             2 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 mins              █████████████████████████   100.0%
 
 ```
 
@@ -56,7 +57,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 31/08/2022 04:40:40 UTC
+ Last Updated on 01/09/2022 04:17:14 UTC
 <!--END_SECTION:waka-->
 
 
