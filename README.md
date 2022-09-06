@@ -2,9 +2,47 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leverglowh) ![Profile readme](https://github.com/leverglowh/leverglowh/workflows/Profile%20readme/badge.svg?branch=master)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C348%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18%20Thousand%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.92% 
+🌆 Daytime    11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.89% 
+🌃 Evening    16 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.84% 
+🌙 Night      66 commits     ████████████████░░░░░░░░░   65.35%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.88% 
+Tuesday      7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.93% 
+Wednesday    22 commits     █████░░░░░░░░░░░░░░░░░░░░   21.78% 
+Thursday     9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.91% 
+Friday       9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.91% 
+Saturday     29 commits     ███████░░░░░░░░░░░░░░░░░░   28.71% 
+Sunday       13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.87%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JavaScript               1 min               ███████████████░░░░░░░░░░   60.74% 
+Markdown                 1 min               █████████░░░░░░░░░░░░░░░░   39.26%
+
+🔥 Editors: 
+Sublime Text             2 mins              █████████████████████████   100.0%
+
+💻 Operating System: 
+Mac                      2 mins              █████████████████████████   100.0%
+
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -19,7 +57,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 05/09/2022 04:30:08 UTC
+ Last Updated on 06/09/2022 04:33:41 UTC
 <!--END_SECTION:waka-->
 
 
