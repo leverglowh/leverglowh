@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leverglowh) ![Profile readme](https://github.com/leverglowh/leverglowh/workflows/Profile%20readme/badge.svg?branch=master)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C563%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C566%20hrs%2058%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -18,9 +18,9 @@
 
 ```text
 💬 Programming Languages: 
-Vue.js                   2 hrs 7 mins        ███████████████░░░░░░░░░░   58.82 % 
-CSV                      45 mins             █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
-TypeScript               42 mins             █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Vue.js                   2 hrs 9 mins        ███████████████░░░░░░░░░░   59.17 % 
+CSV                      45 mins             █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
+TypeScript               42 mins             █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
@@ -38,7 +38,7 @@ Java                     2 repos             ████░░░░░░░�
 
 
 
- Last Updated on 09/01/2024 02:35:29 UTC
+ Last Updated on 10/01/2024 02:34:36 UTC
 <!--END_SECTION:waka-->
 
 
