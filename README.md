@@ -2,8 +2,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leverglowh) ![Profile readme](https://github.com/leverglowh/leverglowh/workflows/Profile%20readme/badge.svg?branch=master)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C666%20hrs%2047%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -35,7 +33,7 @@ Java                     2 repos             ████░░░░░░░�
 
 
 
- Last Updated on 13/04/2024 02:19:54 UTC
+ Last Updated on 14/04/2024 03:20:14 UTC
 <!--END_SECTION:waka-->
 
 
