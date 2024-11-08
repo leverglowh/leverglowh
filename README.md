@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leverglowh) ![Profile readme](https://github.com/leverglowh/leverglowh/workflows/Profile%20readme/badge.svg?branch=master)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C145%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C152%20hrs%2031%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -18,11 +18,11 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               13 hrs 7 mins       ██████████░░░░░░░░░░░░░░░   41.25 % 
-Java                     4 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-YAML                     3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Bash                     1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-Kotlin                   1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+TypeScript               9 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   29.75 % 
+Java                     5 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+XML                      4 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+YAML                     3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Kotlin                   1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -38,7 +38,7 @@ Java                     2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 07/11/2024 02:59:08 UTC
+ Last Updated on 08/11/2024 02:58:06 UTC
 <!--END_SECTION:waka-->
 
 
