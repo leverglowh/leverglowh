@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leverglowh) ![Profile readme](https://github.com/leverglowh/leverglowh/workflows/Profile%20readme/badge.svg?branch=master)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C185%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C192%20hrs%2047%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -18,11 +18,11 @@
 
 ```text
 💬 Programming Languages: 
-Swift                    13 hrs 40 mins      ████████░░░░░░░░░░░░░░░░░   33.98 % 
-Java                     13 hrs 35 mins      ████████░░░░░░░░░░░░░░░░░   33.77 % 
-XML                      7 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-TypeScript               2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Other                    2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Swift                    23 hrs 37 mins      █████████████░░░░░░░░░░░░   52.47 % 
+Java                     12 hrs 19 mins      ███████░░░░░░░░░░░░░░░░░░   27.37 % 
+XML                      4 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Other                    2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+TypeScript               1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -38,7 +38,7 @@ Java                     2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 14/11/2024 02:59:16 UTC
+ Last Updated on 15/11/2024 03:06:50 UTC
 <!--END_SECTION:waka-->
 
 
