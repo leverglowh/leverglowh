@@ -2,6 +2,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leverglowh) ![Profile readme](https://github.com/leverglowh/leverglowh/workflows/Profile%20readme/badge.svg?branch=master)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C693%20hrs%2054%20mins-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -32,7 +34,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2025 03:21:46 UTC
+ Last Updated on 16/10/2025 03:20:03 UTC
 <!--END_SECTION:waka-->
 
 
