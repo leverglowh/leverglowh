@@ -2,6 +2,25 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leverglowh) ![Profile readme](https://github.com/leverglowh/leverglowh/workflows/Profile%20readme/badge.svg?branch=master)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C694%20hrs%2052%20mins-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+🌆 Daytime                174 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+🌃 Evening                243 commits         ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+🌙 Night                  605 commits         ██████████████░░░░░░░░░░░   56.97 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -15,7 +34,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 03:59:55 UTC
+ Last Updated on 05/01/2026 04:04:48 UTC
 <!--END_SECTION:waka-->
 
 
