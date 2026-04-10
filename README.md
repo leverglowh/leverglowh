@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leverglowh) ![Profile readme](https://github.com/leverglowh/leverglowh/workflows/Profile%20readme/badge.svg?branch=master)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3875%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3876%20hrs%2021%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -18,11 +18,11 @@
 
 ```text
 💬 Programming Languages: 
-Json                     2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
-JSX                      2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
-TSX                      1 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Typescript               1 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Mysql                    0 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Json                     2 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   27.25 % 
+JSX                      2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+Typescript               1 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+TSX                      0 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Bash                     0 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -38,7 +38,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/04/2026 04:45:11 UTC
+ Last Updated on 10/04/2026 05:12:01 UTC
 <!--END_SECTION:waka-->
 
 
