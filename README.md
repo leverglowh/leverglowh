@@ -2,15 +2,15 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leverglowh) ![Profile readme](https://github.com/leverglowh/leverglowh/workflows/Profile%20readme/badge.svg?branch=master)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4011%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4012%20hrs%2025%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-🌆 Daytime                179 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-🌃 Evening                265 commits         ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
-🌙 Night                  607 commits         ██████████████░░░░░░░░░░░   55.54 % 
+🌆 Daytime                179 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+🌃 Evening                267 commits         ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+🌙 Night                  607 commits         ██████████████░░░░░░░░░░░   55.43 % 
 ```
 
 
@@ -18,27 +18,27 @@
 
 ```text
 💬 Programming Languages: 
-TSX                      7 hrs 52 mins       █████████████░░░░░░░░░░░░   52.31 % 
-Typescript               3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
-Mysql                    1 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Java                     0 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Json                     0 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+TSX                      5 hrs 32 mins       ███████████████░░░░░░░░░░   61.48 % 
+Typescript               1 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Markdown                 0 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Json                     0 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Unknown                  0 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Swift                    5 repos             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Bru                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+TypeScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Swift                    5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Bru                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
 
 
- Last Updated on 18/06/2026 07:10:34 UTC
+ Last Updated on 19/06/2026 07:31:20 UTC
 <!--END_SECTION:waka-->
 
 
