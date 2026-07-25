@@ -2,15 +2,15 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leverglowh) ![Profile readme](https://github.com/leverglowh/leverglowh/workflows/Profile%20readme/badge.svg?branch=master)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4066%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4067%20hrs%2025%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-🌆 Daytime                179 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-🌃 Evening                278 commits         ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
-🌙 Night                  607 commits         ██████████████░░░░░░░░░░░   54.88 % 
+🌆 Daytime                179 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+🌃 Evening                277 commits         ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
+🌙 Night                  607 commits         ██████████████░░░░░░░░░░░   54.93 % 
 ```
 
 
@@ -18,11 +18,11 @@
 
 ```text
 💬 Programming Languages: 
-Typescript               3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-Unknown                  2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-TSX                      2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-YAML                     1 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Html                     0 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Typescript               3 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   33.20 % 
+Unknown                  2 hrs 1 mins        █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+TSX                      1 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+Mysql                    0 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Vue                      0 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -38,7 +38,7 @@ Bru                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 05:32:38 UTC
+ Last Updated on 25/07/2026 05:26:33 UTC
 <!--END_SECTION:waka-->
 
 
