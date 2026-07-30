@@ -2,15 +2,15 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leverglowh) ![Profile readme](https://github.com/leverglowh/leverglowh/workflows/Profile%20readme/badge.svg?branch=master)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4072%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4075%20hrs%2031%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-🌆 Daytime                179 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-🌃 Evening                273 commits         ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
-🌙 Night                  607 commits         ██████████████░░░░░░░░░░░   55.13 % 
+🌆 Daytime                179 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+🌃 Evening                274 commits         ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+🌙 Night                  607 commits         ██████████████░░░░░░░░░░░   55.08 % 
 ```
 
 
@@ -18,11 +18,11 @@
 
 ```text
 💬 Programming Languages: 
-Typescript               4 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   40.65 % 
-Unknown                  2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
-Vue                      1 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-TSX                      1 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Json                     0 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Typescript               5 hrs 3 mins        ███████████░░░░░░░░░░░░░░   44.15 % 
+TSX                      2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+Unknown                  1 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Vue                      1 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Javascript               0 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -44,7 +44,7 @@ Bru                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 05:33:47 UTC
+ Last Updated on 30/07/2026 05:20:53 UTC
 <!--END_SECTION:waka-->
 
 
