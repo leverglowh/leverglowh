@@ -18,11 +18,11 @@
 
 ```text
 💬 Programming Languages: 
-Nginx configuration file 0 hrs 55 mins       █████████████░░░░░░░░░░░░   52.79 % 
-Mysql                    0 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Json                     0 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-Typescript               0 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-YAML                     0 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Nginx configuration file 0 hrs 51 mins       ████████████░░░░░░░░░░░░░   46.57 % 
+Json                     0 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Mysql                    0 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Typescript               0 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+YAML                     0 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -44,7 +44,7 @@ Bru                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2026 09:29:03 UTC
+ Last Updated on 16/11/2026 09:46:50 UTC
 <!--END_SECTION:waka-->
 
 
