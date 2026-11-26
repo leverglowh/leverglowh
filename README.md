@@ -2,15 +2,15 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leverglowh) ![Profile readme](https://github.com/leverglowh/leverglowh/workflows/Profile%20readme/badge.svg?branch=master)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4175%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4175%20hrs%207%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-🌆 Daytime                179 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-🌃 Evening                284 commits         ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
-🌙 Night                  607 commits         ██████████████░░░░░░░░░░░   54.59 % 
+🌞 Morning                42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+🌆 Daytime                179 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+🌃 Evening                290 commits         ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
+🌙 Night                  607 commits         ██████████████░░░░░░░░░░░   54.29 % 
 ```
 
 
@@ -18,11 +18,11 @@
 
 ```text
 💬 Programming Languages: 
-Json                     0 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   38.75 % 
-Markdown                 0 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-Bash                     0 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Typescript               0 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Vue                      0 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Json                     0 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   40.36 % 
+Markdown                 0 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+Typescript               0 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Bash                     0 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+TSX                      0 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -44,7 +44,7 @@ Bru                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2026 11:20:16 UTC
+ Last Updated on 26/11/2026 10:56:40 UTC
 <!--END_SECTION:waka-->
 
 
